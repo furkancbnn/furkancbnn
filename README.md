@@ -1,5 +1,6 @@
 ### Hi there, Welcome to My Github Profile 👋
-![Windows-evrimi](https://user-images.githubusercontent.com/129904143/233821580-387de986-039e-463b-a67e-951de3925431.gif)
+![white](https://user-images.githubusercontent.com/129904143/233821590-e96882ca-c6cd-4e15-88ed-186e8892863d.gif)
+
 
 Hi, I'm Furkan Çoban 👋 I'm a Frontend Software Developer who specializes in HTML and CSS, but I'm always learning new things and currently focused on improving my JavaScript skills. 
  🛠 I'm passionate about creating projects and constantly pushing myself to grow and improve. 💻 I'm also currently learning React to expand my skillset.
