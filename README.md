@@ -4,12 +4,15 @@
 I'm Furkan Çoban 👋 I'm a Frontend Software Developer who specializes in HTML and CSS, but I'm always learning new things and currently focused on improving my JavaScript skills. 
  🛠 I'm passionate about creating projects and constantly pushing myself to grow and improve. 💻 I'm also currently learning React to expand my skillset.
 
-📌 Technologies & Tools
+🔎📌 Technologies & Tools
 
-HTML
-CSS3
-JavaScript
-React
+- HTML
+
+- CSS3
+
+- JavaScript
+
+- React
 
 🖱 📌 Projects
 Here are a few of my favorite projects that I've worked on:
