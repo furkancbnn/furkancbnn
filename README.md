@@ -1,5 +1,5 @@
 ### Hi there, Welcome to My Github Profile 👋
-![software](https://user-images.githubusercontent.com/129904143/233821598-21f6f421-21f8-4f94-832d-a3e3da842e28.gif)
+[HastyAntiqueBetafish-max-1mb](https://user-images.githubusercontent.com/129904143/233821721-113f1e03-738a-42ba-b330-942445ed03ac.gif)
 
 
 Hi, I'm Furkan Çoban 👋 I'm a Frontend Software Developer who specializes in HTML and CSS, but I'm always learning new things and currently focused on improving my JavaScript skills. 
