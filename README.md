@@ -26,5 +26,4 @@ I'm always looking for ways to improve and expand my skillset. Currently, I'm fo
 I'm open to collaborating on projects and contributing to open source projects. If you have a project that you think I could contribute to, feel free to reach out!
 
 📱 📌 Contact
-Feel free to contact me through 
-Let's connect!
+You can reach me from the links in my account.
