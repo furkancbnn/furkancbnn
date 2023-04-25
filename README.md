@@ -27,4 +27,3 @@ I'm open to collaborating on projects and contributing to open source projects. 
 
 📱 📌 Contact
 You can reach me from the links in my account.
-html5 css3 javascript  
