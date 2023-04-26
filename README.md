@@ -15,11 +15,8 @@ I'm Furkan Çoban 👋 I'm a Frontend Software Developer who specializes in HTML
 
 ![flaws](https://user-images.githubusercontent.com/129904143/233822166-6e98f16d-bb7e-4122-a49d-0766b8d3c38d.gif)
 
-💻 📌Learning and Growth 
-They are always looking for ways to improve and expand their skills. I am learning React to build more interactive and dynamic web applications.
+💻 📌Learning and Growth They are always looking for ways to improve and expand their skills. I am learning React to build more interactive and dynamic web applications.
 
-🖱 📌 Contributions & Collaborations 
-I am open to collaboration and open source data in projects. If you have a project that you can contribute and consume, you can contact me.
+🖱 📌 Contributions & Collaborations I am open to collaboration and open source data in projects. If you have a project that you can contribute and consume, you can contact me.
 
-📱 📌Contact 
-You can reach me from the links in my account.
+📱 📌Contact You can reach me from the links in my account.
