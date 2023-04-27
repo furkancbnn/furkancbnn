@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML and CSS. I am open to learning and I continue to improve myself. 💻</h3>
-<img align https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fwww.washingtonpost.com%2Fresizer%2FfJl7Cktph0n-jertEYvwYXrRFkg%3D%2F1200x0%2Farc-anglerfish-washpost-prod-thelily-washpost.s3.amazonaws.com%2Fpublic%2FOQJBTOQ35ZGLBJ5WA7SBAWFXOQ.gif&tbnid=qg37r9MmnoQdAM&vet=12ahUKEwj3o9aTnMn-AhWcXvEDHZ2xACcQxiAoAXoECAAQHQ..i&imgrefurl=https%3A%2F%2Fwww.thelily.com%2Fa-92-year-old-subscription-service-reinvented-itself-now-its-a-hit-with-millennial-women%2F&docid=TWonITEo_J-m_M&w=1200&h=650&itg=1&q=computer%20software%20gif%20black&hl=tr&ved=2ahUKEwj3o9aTnMn-AhWcXvEDHZ2xACcQxiAoAXoECAAQHQ>
+
+<img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.thelily.com%2Fa-92-year-old-subscription-service-reinvented-itself-now-its-a-hit-with-millennial-women%2F&psig=AOvVaw0fuh2_5P7YKCyVyNUZWAGE&ust=1682656368274000&source=images&cd=vfe&ved=2ahUKEwjjlZPKncn-AhXHXvEDHVF_BwYQjRx6BAgAEAw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancbnn&label=Profile%20views&color=0e75b6&style=flat" alt="furkancbnn" /> </p>
 
