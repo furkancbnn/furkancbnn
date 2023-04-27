@@ -1,4 +1,4 @@
-![](https://github.com/furkancbnn/furkancbnn/blob/main/flaws.gif)
+![](https://github.com/furkancbnn/furkancbnn/blob/main/pccode.gif)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML and CSS. I am open to learning and I continue to improve myself. 💻</h3>
@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancbnn&label=Profile%20views&color=0e75b6&style=flat" alt="furkancbnn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@furkancb99" target="blank"><img src="https://img.shields.io/twitter/follow/@furkancb99?logo=twitter&style=for-the-badge" alt="@furkancb99" /></a> </p>
+
+![](https://github.com/furkancbnn/furkancbnn/blob/main/flaws.gif)
 
 - 🔭 I’m currently working on **JavaScript, React**
 
