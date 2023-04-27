@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML and CSS. I am open to learning and I continue to improve myself. 💻</h3>
 
-<img src="![white](https://user-images.githubusercontent.com/129904143/234761164-bfc021a0-7726-468d-a28a-c9c2d2410bda.gif)">
+<img align="right" alt="Coding" width="400" src="image_processing20191004-11661-1xssh8r.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancbnn&label=Profile%20views&color=0e75b6&style=flat" alt="furkancbnn" /> </p>
 
