@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML and CSS. I am open to learning and I continue to improve myself. 💻</h3>
 
-<img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.thelily.com%2Fa-92-year-old-subscription-service-reinvented-itself-now-its-a-hit-with-millennial-women%2F&psig=AOvVaw0fuh2_5P7YKCyVyNUZWAGE&ust=1682656368274000&source=images&cd=vfe&ved=2ahUKEwjjlZPKncn-AhXHXvEDHVF_BwYQjRx6BAgAEAw">
+<img src="![white](https://user-images.githubusercontent.com/129904143/234761164-bfc021a0-7726-468d-a28a-c9c2d2410bda.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancbnn&label=Profile%20views&color=0e75b6&style=flat" alt="furkancbnn" /> </p>
 
