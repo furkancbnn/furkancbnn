@@ -1,3 +1,4 @@
+![](https://github.com/furkancbnn/furkancbnn/blob/main/flaws.gif)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML and CSS. I am open to learning and I continue to improve myself. 💻</h3>
