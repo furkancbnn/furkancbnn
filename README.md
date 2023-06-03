@@ -13,10 +13,7 @@ If you are interested in working with me on a projects or collaboration opportun
 
 ![](https://github.com/furkancbnn/furkancbnn/blob/main/flaws.gif)
 
-- 🔭 I’m currently working on **JavaScript, React**
-
-- 💬 Ask me about **HTML, Css**
-
+- 🔭💬 I realize projects in html, css and javascript and react. **JavaScript, React** 
 - 📫 How to reach me **furkancooban34@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
