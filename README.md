@@ -1,7 +1,7 @@
 ![](https://github.com/furkancbnn/furkancbnn/blob/main/pccode.gif)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML and CSS. I am open to learning and I continue to improve myself. 💻</h3>
+<h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML, CSS and JavaScript. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancbnn&label=Profile%20views&color=0e75b6&style=flat" alt="furkancbnn" /> </p>
 
