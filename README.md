@@ -9,19 +9,16 @@ If you are interested in working with me on a projects or collaboration opportun
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancbnn&label=Profile%20views&color=0e75b6&style=flat" alt="furkancbnn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@furkancb99" target="blank"><img src="https://img.shields.io/twitter/follow/@furkancb99?logo=twitter&style=for-the-badge" alt="@furkancb99" /></a> </p>
-
 ![](https://github.com/furkancbnn/furkancbnn/blob/main/flaws.gif)
 
 - 🔭💬 I realize projects in **Html, Css, JavaScript and React.**  
 - 📫 How to reach me **furkancooban34@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@furkancb99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@furkancb99" height="30" width="40" /></a>
+<!-- <p align="left">
+<a href="https://twitter.com/@furkancb99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@furkancb99" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/furkan-cbn-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-cbn-" height="30" width="40" /></a>
 <a href="https://instagram.com/cfurkan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cfurkan_99" height="30" width="40" /></a>
-<a href="https://discord.gg/SarıReis#9951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SarıReis#9951" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
