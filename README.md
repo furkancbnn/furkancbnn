@@ -15,10 +15,10 @@ If you are interested in working with me on a projects or collaboration opportun
 - 📫 How to reach me **furkancooban34@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-<a href="https://twitter.com/@furkancb99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@furkancb99" height="30" width="40" /></a> -->
+<<p align="left">
+<a href="https://twitter.com/@furkancb99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@furkancb99" height="30" width="40" /></a> 
+<!-- <a href="https://instagram.com/cfurkan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cfurkan_99" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/furkan-cbn-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-cbn-" height="30" width="40" /></a>
-<a href="https://instagram.com/cfurkan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cfurkan_99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
