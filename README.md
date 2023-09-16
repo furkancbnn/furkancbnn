@@ -11,8 +11,7 @@ If you are interested in working with me on a projects or collaboration opportun
 
 ![](https://github.com/furkancbnn/furkancbnn/blob/main/flaws.gif)
 
-- 🔭💬 I realize projects in **Html, Css, JavaScript and React.**  
-- 📫 How to reach me **furkancooban34@hotmail.com**
+- 📫 How to reach me **furkancoban3499@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
