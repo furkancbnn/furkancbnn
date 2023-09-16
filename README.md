@@ -1,7 +1,7 @@
 ![](https://github.com/furkancbnn/furkancbnn/blob/main/pccode.gif)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I am Furkan Çoban 👋 I am a Frontend Software Developer specialized in HTML, CSS and JavaScript. 💻 At the same time, I support my projects with technologies such as Bootstrap, Tailwind and SCSS.
+<h3 align="center">I am a Frontend Software Developer specialized in HTML, CSS and JavaScript. 💻 At the same time, I support my projects with technologies such as Bootstrap, Tailwind and SCSS.
 I use these frameworks in my projects to provide flexibility and efficiency in creating user-friendly and responsive websites and applications. Thus, my projects become more comprehensive.
 I prioritize staying up to date with new technologies and trends, so I can incorporate the latest innovations into my projects to deliver enhanced experiences. I focus on continuous learning and self-improvement, trying to acquire new skills and keep my existing knowledge up to date.
 You can visit my portfolio to learn more about my projects. I am eager to collaborate and work in a team to deliver solutions that meet users' needs.
